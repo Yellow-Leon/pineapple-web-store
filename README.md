@@ -4,12 +4,12 @@
 ├── /assets               
 │   ├── /css              
 │   ├── /images           
-│   └── /js               
-├── /public               
-│   ├── index.html        
-│   ├── productos.html    
-│   ├── carrito.html      
-│   └── pago.html         
-└── /backend  
-    ├── database.php      
-    └── carrito.php       
+│   └── /js                   
+├── /backend  
+│   ├── database.php      
+│   └── carrito.php       
+└── /public               
+    ├── index.html        
+    ├── productos.html    
+    ├── carrito.html      
+    └── pago.html     
